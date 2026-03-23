@@ -1,10 +1,10 @@
-# 🍩 ASCII Donut in Terminal
+#  ASCII Donut in Terminal
 
 > A lightweight C program that renders a rotating 3D donut (torus) directly in your terminal using math and ASCII shading.
 
 ---
 
-## 📸 Demo
+##  Demo
 
 ```id="j3p6h9"
      k;double sin()
@@ -34,7 +34,7 @@ in(B),t=c*h*g-f*        e;int x=40+30*D*
 
 ---
 
-## 🧠 How It Works
+##  How It Works
 
 This program simulates a 3D torus using:
 
@@ -46,14 +46,14 @@ This program simulates a 3D torus using:
 
 ---
 
-## ⚙️ Requirements
+##  Requirements
 
 * GCC or Clang
 * Terminal (macOS, Linux, or Windows with WSL)
 
 ---
 
-## 🛠️ Setup
+##  Setup
 
 ### Compile
 
@@ -69,13 +69,13 @@ gcc main.c -o donut -lm
 
 ---
 
-## 🎮 Controls
+##  Controls
 
 * `Ctrl + C` → Stop the program
 
 ---
 
-## 🚀 Features
+##  Features
 
 * Real-time 3D animation
 * Terminal-based rendering
