@@ -46,17 +46,6 @@ This program simulates a 3D torus using:
 
 ---
 
-## 📁 Project Structure
-
-```id="v5a6z0"
-donut-terminal/
-├── main.c
-├── README.md
-└── .gitignore
-```
-
----
-
 ## ⚙️ Requirements
 
 * GCC or Clang
