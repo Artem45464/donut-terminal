@@ -94,7 +94,3 @@ gcc main.c -o donut -lm
 * Lightweight single-file project
 
 ---
-
-## 📜 License
-
-MIT License
