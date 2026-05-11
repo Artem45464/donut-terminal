@@ -199,22 +199,22 @@ The 3D rotations are applied around both X and Y axes using matrices, then persp
 
 ##  Recent Improvements (v2.0)
 
-✨ **Performance**
+ **Performance**
 - Fast buffer initialization with `memset()`
 - Batch I/O with `fwrite()` instead of per-character writes
 - Float-optimized math functions (`cosf()`, `sinf()`)
 
-🛡️ **Safety**
+ **Safety**
 - Division-by-zero protection
 - Proper bounds checking
 - Signal handling for clean exit
 
-📝 **Code Quality**
+ **Code Quality**
 - Better constants and named values
 - Improved comments and documentation
 - Proper use of `M_PI` instead of hardcoded values
 
-🎮 **User Experience**
+ **User Experience**
 - Graceful exit with `Ctrl+C`
 - Command-line control of rotation speeds
 - Restored cursor and clean terminal on exit
